@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,200;0,300;1,200;1,300&display=swap');
+
+html {
+  background: rgba(94, 135, 121);
+}
+
 body {
   margin: 0 auto;
-  background-color: rgba(54, 105, 88, 0.8);
-  font-family: monospace;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .header-bar {
