@@ -11,7 +11,7 @@ body {
 
 .header-bar {
   margin: 0 auto;
-  margin-bottom: 80px;
+  margin-bottom: 50px;
   padding: 20px 30px;
   width: min(calc(500px + 12.5vw), 80vw);
   background-color: rgb(54, 105, 88);
