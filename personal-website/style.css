@@ -4,7 +4,7 @@ body {
   font-family: monospace;
 }
 
-.title-bar {
+.header-bar {
   margin: 0 auto;
   margin-bottom: 80px;
   padding: 20px 30px;
@@ -25,7 +25,7 @@ body {
   color: black;
 }
 
-.box-main {
+.main-box {
   margin: 0 auto;
   max-width: 2000px;
   display: flex;
