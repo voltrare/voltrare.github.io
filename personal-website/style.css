@@ -50,3 +50,7 @@ body {
   margin: 0 auto;
   color: white;
 }
+
+img {
+  max-width: 100%;
+}
