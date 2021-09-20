@@ -1,0 +1,3 @@
+[submodule "website-project"]
+	path = website-project
+	url = https://github.com/voltrare/website-project.git
