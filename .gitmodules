@@ -1,7 +1,3 @@
 [submodule "website-project"]
 	path = website-project
 	url = https://github.com/voltrare/website-project.git
-[submodule "gh-pages-url-shortener"]
-	path = gh-pages-url-shortener
-	url = https://github.com/voltrare/gh-pages-url-shortener.git
-	branch = personal
